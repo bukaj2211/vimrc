@@ -1,1 +1,1 @@
-All here files starts with . and are hidden
+(All files starts with . and are hidden by defalutl)
